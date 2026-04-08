@@ -1,4 +1,4 @@
-# 🧬 Protein Molecular Dynamics for Protein–Protein Interaction Analysis
+# 🧬 Molecular Dynamics for Protein–Protein Interaction Analysis
 
 This project studies a protein–protein complex using **molecular dynamics (MD)** and **umbrella sampling**. The main goal is to estimate the **potential of mean force (PMF)** along the protein separation coordinate and compare **wild type** behavior against two interface mutations.
 
