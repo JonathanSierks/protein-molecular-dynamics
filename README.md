@@ -75,4 +75,8 @@ part4/               # later-stage workflow outputs
 part4_mutant1/       # mutant 1 simulation/analysis
 part4_mutant2/       # mutant 2 simulation/analysis
 combine_pmf.py       # helper script for PMF processing/combination
-gmx_env.sh           # shell setup for the GROMACS environment
+gmx_env.sh           # shell setup for the GROMACS 
+
+## Authors
+Jonathan Sierks
+Kieran Carroll [@kierancarroll](https://github.com/kierancarroll)
